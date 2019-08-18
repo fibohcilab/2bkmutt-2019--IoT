@@ -1,1 +1,23 @@
-# 2bkmutt-2019--IoT
+﻿# การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT
+## สมาชิก
+- ธีปกรณ์ ค้าผล
+    - การศึกษา
+        - ม.5/10 โรงเรียนเบญจมราชูทิศ จังหวัดจันทบุรี
+    - ติดต่อ
+        - sandstar19@hotmail.coml
+        - fb : [Teepakorn kp](https://www.facebook.com/profile.php?id=100003611830466)
+        - ig : [sand_teepakorn](https://www.instagram.com/sand_teepakorn)
+- อรอุมา วิโรชกิจเจริญ
+    - การศึกษา
+        -  ม.5/2 โรงเรียนเมืองพลพิทยาคม จังหวัดขอนเเก่น
+    - ติดต่อ
+        - onumamouy@gmail.com
+        - fb :[Moüy](https://www.facebook.com/mouy.onuma)
+        - ig : [mouymouymouymouymouymouy.__](https://www.instagram.com/mouymouymouymouymouymouy.__)
+- ธนบดี ธรรมรังษี
+    - การศึกษา
+        - ม.5/10 โรงเรียนตาคลีประชาสรรค์ จังหวัดนครสวรรค์
+    - ติดต่อ
+        - utistum@gmail.com
+        - fb : [Thanabordee thummarngsee](https://www.facebook.com/utisdew.tummarangse)
+        - ig : [melstorm_dolllly](https://www.instagram.com/melstorm_dolllly)
